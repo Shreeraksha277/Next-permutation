@@ -1,6 +1,6 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int n = nums.length;
+         int n = nums.length;
 
         // Step 1: Find pivot
         int i = n - 2;
